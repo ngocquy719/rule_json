@@ -5,7 +5,7 @@
 "Broken Arrows":"04",
 "Close Range":"05",
 "Earthquake":"06",
-"Equaliser":"07",
+"Equalizer":"07",
 "Equal Opportunity":"08",
 "Even Stevens":"09",
 "Explosive Weaponry":10,
@@ -30,6 +30,6 @@
 "Taking Sides":29,
 "Target Practice":30,
 "Unprotected":31,
-"Up Close and Personal":32,
+"Up Close & Personal":32,
 "Weak Magic":33
 }
